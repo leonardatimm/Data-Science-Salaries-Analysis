@@ -76,7 +76,7 @@ O dashboard será aberto automaticamente no seu navegador.
 Este projeto foi desenvolvido por:
 
 - **Nome:** Leonarda Timm
-- **GitHub:** [Link do seu perfil no GitHub]
+- **GitHub:** https://github.com/leonardatimm
 - **LinkedIn:** https://www.linkedin.com/in/leonarda-timm-9797a5224/?trk=opento_sprofile_topcard
 
 ## 📜 Licença
